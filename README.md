@@ -4,8 +4,7 @@
 
 所以尝试简单执行一下代码
 
-``java
-
+``
 	/**
 	 * 距离 时间戳 45 天之后的某天在下一个月的当前周的最后一天的日期
 	 */
@@ -40,12 +39,11 @@
         System.out.println("不带有时区："+localDate.toString());
         
 	}
-
 ``
 
 更多例子在
 
-http://www.joda.org/joda-time/(http://www.joda.org/joda-time/ )
+[http://www.joda.org/joda-time](http://www.joda.org/joda-time/ )
 
-http://www.ibm.com/developerworks/cn/java/j-jodatime.html(http://www.ibm.com/developerworks/cn/java/j-jodatime.html)
+[http://www.ibm.com/developerworks/cn/java/j-jodatime.html](http://www.ibm.com/developerworks/cn/java/j-jodatime.html)
 
